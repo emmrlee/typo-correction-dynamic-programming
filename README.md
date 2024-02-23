@@ -5,3 +5,5 @@ This repo includes:
 - the source code for the program
 - a report describing the concept of dynamic programming and imprecise string matching for beginners
 - the LaTex file for the report
+
+Read the report [here](https://github.com/emmrlee/typo-correction-dynamic-programming/blob/main/typo-correction-report.pdf)
